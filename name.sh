@@ -4,3 +4,4 @@ echo "Enter number:"
 read num1
 echo "Enter number2:"
 read num2
+echo "Hi Update"
